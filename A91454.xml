@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments letanie, for the more speedy composure of differences, between them and the City, between the City and the Army, and between them all, and the King : that when they have ruined one another, the royall party may not by that meanes be triumphant.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91454</idno><idno type="EEBO-CITATION">99872331</idno>
+  <idno type="VID">161196</idno>
+  <idno type="EEBO-PROQUEST">2240938570</idno>
+  
+            <idno type="STC">Wing P515</idno>
+            <idno type="STC">Thomason E409_17</idno>
+            <idno type="STC">ESTC R32694</idno>
+            <idno type="PROQUEST">99872331</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872331e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91454)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161196)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E409[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments letanie, for the more speedy composure of differences, between them and the City, between the City and the Army, and between them all, and the King : that when they have ruined one another, the royall party may not by that meanes be triumphant.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the yeare, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 30th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Poetry --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161196:1"/>
+            <p>THE PARLIAMENTS LETANIE, FOR The more speedy composure of Diffe<g ref="char:EOLunhyphen"/>rences, between them and the City, between the City and the Army, and between them all, and the King: That when they have ruined one another, the Royall Party may not by that meanes be Triumphant.</p>
+            <p>Printed in the Yeare, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:161196:2"/>
+            <pb n="1" facs="tcp:161196:2"/>
+            <head>The <hi>Parliaments</hi> LETANY.</head>
+            <lg>
+               <l>VVEe O Lord, have sate seven yeares,</l>
+               <l>And yet done nothing as appeares,</l>
+               <l>But set the Nation together by the eares,</l>
+            </lg>
+            <p>For which with teares.</p>
+            <lg>
+               <l>From driving the King away, from his own right,</l>
+               <l>And arming his Subjects, against him to fight,</l>
+               <l>From persecuting him with deadly spight,</l>
+            </lg>
+            <p>
+               <hi>Libera nos.</hi>
+            </p>
+            <lg>
+               <l>From innocent blood, as when <hi>Straford</hi> was slaine,</l>
+               <l>Who died for his truth to his Soveraigne;</l>
+               <l>From seeing fierce <hi>Rupert</hi> and <hi>Hopton</hi> againe,</l>
+            </lg>
+            <p>
+               <hi>Libera nos.</hi>
+            </p>
+            <lg>
+               <l>From forcing new Vowes, and Protestations,</l>
+               <l>From unheard of Orders, and strange Declarations,</l>
+               <l>From plundering <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> goods, or any such fashions,</l>
+            </lg>
+            <p>
+               <hi>Libera nos.</hi>
+            </p>
+            <lg>
+               <l>From driving the Queen again, from her dear Lord,</l>
+               <l>A crime that is cursed, and damn'd by Record,</l>
+               <l>From doing wrong, and maintaining by the sword,</l>
+            </lg>
+            <p>
+               <hi>Libera nos.</hi>
+            </p>
+            <lg>
+               <l>From sending againe, for the blew Capt <hi>Scots,</hi>
+               </l>
+               <l>That they may ayde us in all our Plots,</l>
+               <l>Who came (for our goods) most Brotherly Sots,</l>
+            </lg>
+            <p>
+               <hi>Libera nos.</hi>
+            </p>
+            <lg>
+               <l>From contriving Stratagems, and then giving out,</l>
+               <l>That bloody Varlets were bringing about</l>
+               <l>To destroy us, and all ours without doubt,</l>
+            </lg>
+            <p>
+               <hi>Libera nos.</hi>
+            </p>
+            <lg>
+               <pb n="2" facs="tcp:161196:3"/>
+               <l>From notorious Sacriledge, or selling the Land</l>
+               <l>The Bishops enjoyed by Royall Command,</l>
+               <l>From countenancing Knaves, good men to withstand,</l>
+            </lg>
+            <p>
+               <hi>Libera nos.</hi>
+            </p>
+            <lg>
+               <l>From defacing Churches, and pulling down Crosses,</l>
+               <l>From forcing the poore to live by their losses,</l>
+               <l>From <hi>Iohn Presbyters</hi> horns that Religion tosses,</l>
+            </lg>
+            <p>
+               <hi>Libera nos.</hi>
+            </p>
+            <lg>
+               <l>From seasing upon the Land of the Crown,</l>
+               <l>And making infamous a Prince of Renown,</l>
+               <l>From Covenanting to pull Mornarchy down,</l>
+            </lg>
+            <p>
+               <hi>Libera nos.</hi>
+            </p>
+            <lg>
+               <l>From living to see a Committee mans name,</l>
+               <l>Even loathed by all men unto our great shame,</l>
+               <l>From being scorched to ashes by our own flame,</l>
+            </lg>
+            <p>
+               <hi>Libera nos.</hi>
+            </p>
+            <lg>
+               <l>From writing in blood the Edicts we make,</l>
+               <l>From forcing the Souldiers halfe pay for to take,</l>
+               <l>From giving the rich and from the poore to rake,</l>
+            </lg>
+            <p>
+               <hi>Libera nos.</hi>
+            </p>
+            <lg>
+               <l>From being expulsed by those are our own,</l>
+               <l>Who, cause <hi>Independents,</hi> most great are grown,</l>
+               <l>From being clapt up in prison each one,</l>
+            </lg>
+            <p>
+               <hi>Libera nos.</hi>
+            </p>
+            <lg>
+               <l>From sequestring mens states unto their bare skin,</l>
+               <l>From not caring who looses so our selves may win,</l>
+               <l>From a pretended holinesse to cover our sin,</l>
+            </lg>
+            <p>
+               <hi>Libera nos.</hi>
+            </p>
+            <lg>
+               <l>From the peoples curses, that have hated our Acts,</l>
+               <l>Our cunning glosses, and close compacts,</l>
+               <l>And from the reward that is due to our Facts,</l>
+            </lg>
+            <p>
+               <hi>Libera nos.</hi>
+            </p>
+            <lg>
+               <l>From Prince <hi>Charles</hi> his fury, whom we have abus'd</l>
+               <l>Aswell as his Fathe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> disloyalty us'd,</l>
+               <pb n="3" facs="tcp:161196:3"/>
+               <l>From a Forraign foe, while we now are confus'd,</l>
+            </lg>
+            <p>
+               <hi>Libera nos.</hi>
+            </p>
+            <lg>
+               <l>From Sir <hi>Thomas</hi> and his Army, who now will purge</l>
+               <l>The House of ill Members, &amp; intends them to scourge,</l>
+               <l>O now some one, help us petitions to forge,</l>
+            </lg>
+            <p>
+               <hi>Libera nos.</hi>
+            </p>
+            <lg>
+               <l>From our own black Consciences that still will cry,</l>
+               <l>And teare us for our disloyalty,</l>
+               <l>From being tormented eternally,</l>
+            </lg>
+            <p>
+               <hi>Libera nos.</hi>
+            </p>
+            <lg>
+               <l>From tumultuous noises our eares to fill,</l>
+               <l>From Voting what the Apprentices will,</l>
+               <l>From any that would not have us rule still,</l>
+            </lg>
+            <p>
+               <hi>Libera nos.</hi>
+            </p>
+            <lg>
+               <l>From joyning with the Common-Counsel men</l>
+               <l>To oppose the Army, and raise warres agen,</l>
+               <l>From <hi>Hoptons</hi> sword, and <hi>Berkenheads</hi> pen,</l>
+            </lg>
+            <p>
+               <hi>Libera nos.</hi>
+            </p>
+            <lg>
+               <l>From consumption of our Members, a strange disease,</l>
+               <l>From Voting what the Army please,</l>
+               <l>From giving account for our breach of peace,</l>
+            </lg>
+            <p>
+               <hi>Libera nos.</hi>
+            </p>
+            <lg>
+               <l>From imprisoning wise men, and exalting fooles,</l>
+               <l>From pulling down Churches, &amp; demolishing schools,</l>
+               <l>By Votes, Ordinances, and such damnable tools,</l>
+            </lg>
+            <p>
+               <hi>Libera nos.</hi>
+            </p>
+            <lg>
+               <l>From His Majesties hate, that may justly lie on us,</l>
+               <l>From all Christian Kings, that they fall not upon us,</l>
+               <l>From those were of our part, and now are gon from us,</l>
+            </lg>
+            <p>
+               <hi>Libera nos.</hi>
+            </p>
+            <lg>
+               <l>From those crimes and others, more then the world knows▪</l>
+               <l>Whom we have deluded with specious showes,</l>
+               <l>And so have occasioned the Kingdome's great woes,</l>
+            </lg>
+            <p>
+               <hi>Libera nos Domine.</hi>
+            </p>
+            <lg>
+               <pb n="4" facs="tcp:161196:4"/>
+               <l>THat it may please thee, we now at last<note place="margin">The Parl▪ that Voted a new War.</note>
+               </l>
+               <l>May us repent of what is past,</l>
+               <l>Before we to Abysse be cast,</l>
+            </lg>
+            <p>
+               <hi>Quaesumus te.</hi>
+            </p>
+            <lg>
+               <l>That it may please thee if be thy will,</l>
+               <l>We as we wonted may sit still,</l>
+               <l>The only way our bags to fill,</l>
+            </lg>
+            <p>
+               <hi>Quaesumus te.</hi>
+            </p>
+            <lg>
+               <l>That it may please thee we may Raigne,</l>
+               <l>And still be drivers of <hi>Charles</hi> his waine,</l>
+               <l>And he near hold the reines againe,</l>
+            </lg>
+            <p>
+               <hi>Quaesumus te.</hi>
+            </p>
+            <lg>
+               <l>That it may please thee, we still may devise</l>
+               <l>To foment Discords and Jealousies,</l>
+               <l>And foole the people with egregious lies,</l>
+            </lg>
+            <p>
+               <hi>Quaesumus te.</hi>
+            </p>
+            <lg>
+               <l>That it may please thee, all may comply</l>
+               <l>With us, to make one Monopoly,</l>
+               <l>And engrosse to our selves the Monarchy,</l>
+            </lg>
+            <p>
+               <hi>Quaesumus te.</hi>
+            </p>
+            <lg>
+               <l>That it may please thee, we may make new Elections,</l>
+               <l>And to whom we list give our Protections,</l>
+               <l>And ore three Kingdoms blow our infections,</l>
+            </lg>
+            <p>
+               <hi>Quaesumus te.</hi>
+            </p>
+            <lg>
+               <l>That it may please thee, he thats worth a groat</l>
+               <l>May be made a Dilinquent by our Vote,</l>
+               <l>And for compounding money sell his Coat,</l>
+            </lg>
+            <p>
+               <hi>Quaesumus te.</hi>
+            </p>
+            <lg>
+               <l>That it may please thee, we may advance</l>
+               <l>Schism, sedition, and ignorance,</l>
+               <l>Its for the Kingdomes good perchance,</l>
+            </lg>
+            <p>
+               <hi>Quaesumus te.</hi>
+            </p>
+            <lg>
+               <l>That it may please thee, we may goe on</l>
+               <l>To perfect our reformation,</l>
+               <pb n="5" facs="tcp:161196:4"/>
+               <l>How else shall we ruine the Nation?</l>
+            </lg>
+            <p>
+               <hi>Quaesumus te.</hi>
+            </p>
+            <lg>
+               <l>That it may please thee, since 'tis so,</l>
+               <l>When the Army listeth, we must goe,</l>
+               <l>That they may follow after to,</l>
+            </lg>
+            <p>
+               <hi>Quaesumus te.</hi>
+            </p>
+            <lg>
+               <l>This it may please thee, this famous City,</l>
+               <l>Who are such Coxcombs (as 'tis pitty)</l>
+               <l>May buy their peace, which will make them witty,</l>
+            </lg>
+            <p>
+               <hi>Quaesumus te.</hi>
+            </p>
+            <lg>
+               <l>That it may please thee to blind mens eyes,</l>
+               <l>That while we practise our disguize,</l>
+               <l>Fooles with our words we may surprize,</l>
+            </lg>
+            <p>
+               <hi>Quaesumus te.</hi>
+            </p>
+            <lg>
+               <l>That it may please thee, Sir <hi>Iohn Geyer</hi>
+               </l>
+               <l>Who but till this day was Lord Mayer,</l>
+               <l>May live to disturbe another Faire,</l>
+            </lg>
+            <p>
+               <hi>Quaesumus te.</hi>
+            </p>
+            <lg>
+               <l>That it may please thee his Brethren foure,</l>
+               <l>Who now are quarter'd in the Tower,</l>
+               <l>May have the company of twenty more,</l>
+            </lg>
+            <p>
+               <hi>Quaesumus te.</hi>
+            </p>
+            <lg>
+               <l>That it may please thee, the Citizens may</l>
+               <l>Open their bags the Army to pay,</l>
+               <l>We shall scape the better (as some say,)</l>
+            </lg>
+            <p>
+               <hi>Quaesumus te.</hi>
+            </p>
+            <lg>
+               <l>But O! <note n="*" place="margin">Those that Voted the late Warre.</note> we now must sit no more,</l>
+               <l>And those whom we despised before,</l>
+               <l>Are those that thrust us out of doore,</l>
+            </lg>
+            <p>
+               <hi>O Deus bone.</hi>
+            </p>
+            <lg>
+               <l>(Therefore may it please thee) we may no more,</l>
+               <l>Trample on our Soveraign as before,</l>
+               <l>But now his mercy may emplore,</l>
+            </lg>
+            <p>
+               <hi>Quaesumus te.</hi>
+            </p>
+            <lg>
+               <pb n="6" facs="tcp:161196:5"/>
+               <l>That it may please thee, as Subjects now</l>
+               <l>We to our Lord King <hi>Charles</hi> may bow,</l>
+               <l>And him what is his own allow,</l>
+            </lg>
+            <p>
+               <hi>Quaesumus te.</hi>
+            </p>
+            <lg>
+               <l>That it may please thee, the grievious Curse,<note place="margin">The par<g ref="char:EOLhyphen"/>ting of the Queene from the Ki<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g.</note>
+               </l>
+               <l>That's due to those that doe Divorce,</l>
+               <l>A man and's wife may not plague us worse,</l>
+            </lg>
+            <p>
+               <hi>Quaesumus te.</hi>
+            </p>
+            <lg>
+               <l>That it may please thee, we may now repent,</l>
+               <l>The wrongs we did when prevalent,</l>
+               <l>And also without the Kings consent,</l>
+            </lg>
+            <p>
+               <hi>Quaesumus te.</hi>
+            </p>
+            <lg>
+               <l>That it may please thee, on our submission,</l>
+               <l>Our hearty sorrow and contrition,</l>
+               <l>We may have life by his permission,</l>
+            </lg>
+            <p>
+               <hi>Quaesumus te.</hi>
+            </p>
+            <lg>
+               <l>That it may please thee, those behind</l>
+               <l>May learne to him to be more kind,</l>
+               <l>Else they undoe themselves they'l find,</l>
+            </lg>
+            <p>
+               <hi>Quaesumus te.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSCRIPT.</head>
+            <lg>
+               <head>Argumentum à Majore.</head>
+               <l>Who ever knew the ruine of a Prince,</l>
+               <l>But that those caus'd it, the same brunt did beare?</l>
+               <l>All old Records of ancient time long since,</l>
+               <l>Vnto the world doth make the same appeare;</l>
+               <l>Take heed, take heed then, how you wro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g the King,</l>
+               <l>He cannot fall but must your ruine bring.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
